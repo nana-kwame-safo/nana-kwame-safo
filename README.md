@@ -6,7 +6,6 @@ Mechanical Engineer (BSc) with experience in maintenance, reliability, and engin
 
 My work focuses on applying **machine learning and data‑driven methods to real engineering challenges**, particularly in **reliability, maintenance optimisation, and intelligent engineering systems**.
 
----
 
 ## Areas of Focus
 - Predictive Maintenance & Asset Analytics  
@@ -15,7 +14,6 @@ My work focuses on applying **machine learning and data‑driven methods to real
 - Applied Data Science in Industrial Contexts  
 - Engineering‑aware Model Interpretation & Limitations  
 
----
 
 ## Featured Projects
 These repositories form my applied engineering–AI portfolio, each aligned with real‑world industrial use cases.
@@ -31,7 +29,6 @@ These repositories form my applied engineering–AI portfolio, each aligned with
 
 *Each project includes engineering context, methodology, results, limitations, and future improvements.*
 
----
 
 ## Tools & Technologies
 - Python, NumPy, Pandas  
@@ -39,13 +36,11 @@ These repositories form my applied engineering–AI portfolio, each aligned with
 - Data Visualisation & Model Evaluation  
 - Git, Version Control & Reproducible Workflows  
 
----
 
 ## Location
 United Kingdom  
 Open to engineering–AI opportunities in the UK and internationally.
 
----
 
 ## Contact
 For professional enquiries, please reach out via email (available on request) or through GitHub.
