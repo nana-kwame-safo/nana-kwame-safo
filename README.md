@@ -1,46 +1,29 @@
 # Hi, I’m Nana Kwame Safo
 
-**Mechanical Engineer • Reliability & AI Systems • MSc Artificial Intelligence (in progress)**
+**Mechanical Engineer (BSc) • Reliability & Predictive Maintenance AI • MSc Artificial Intelligence & Data Science (in progress)**
 
-Mechanical Engineer (BSc) with experience in maintenance, reliability, and engineering systems; currently completing an MSc in Artificial Intelligence.
+I’m a mechanical engineer with experience in maintenance and reliability, currently completing an MSc in Artificial Intelligence & Data Science. I build **production-minded ML systems for engineering** with a focus on **predictive maintenance, asset analytics, and decision-focused evaluation (lead time vs false alarms)**.
 
-My work focuses on applying **machine learning and data‑driven methods to real engineering challenges**, particularly in **reliability, maintenance optimisation, and intelligent engineering systems**.
+## Focus Areas
+- Predictive Maintenance & Asset Health Analytics  
+- Reliability Engineering, Failure Analysis & Maintenance Optimisation  
+- Time-Series Machine Learning (baselines, deep sequence models where justified)  
+- Engineering-aware evaluation, interpretation, and limitations  
 
+## Flagship Project
+- **Degradation-Aware Predictive Maintenance**  
+  End-to-end predictive maintenance pipeline for time-series data (feature extraction/windowing, strong baselines, and reliability-focused evaluation).  
 
-## Areas of Focus
-- Predictive Maintenance & Asset Analytics  
-- Reliability Engineering & Failure Analysis  
-- Machine Learning for Engineering Systems  
-- Applied Data Science in Industrial Contexts  
-- Engineering‑aware Model Interpretation & Limitations  
-
-
-## Featured Projects
-These repositories form my applied engineering–AI portfolio, each aligned with real‑world industrial use cases.
-
-- **Predictive Maintenance Using Machine Learning**  
-  Time‑series modelling, feature extraction, and failure prediction for mechanical and rotating equipment.
-
-- **Physics‑Aware Machine Learning for Engineering Systems**  
-  Hybrid modelling approaches combining physical constraints with modern machine‑learning methods.
-
-- **Computer Vision for Industrial Inspection**  
-  CNN‑based defect detection for manufacturing quality control and automated inspection systems.
-
-*Each project includes engineering context, methodology, results, limitations, and future improvements.*
-
+## Roadmap (in progress)
+- **Physics-aware ML for Engineering Systems** *(planned)*  
+- **Computer Vision for Industrial Inspection** *(planned)*  
 
 ## Tools & Technologies
-- Python, NumPy, Pandas  
-- Scikit‑learn, TensorFlow, PyTorch  
-- Data Visualisation & Model Evaluation  
-- Git, Version Control & Reproducible Workflows  
-
+Python (NumPy, pandas), scikit-learn, PyTorch/TensorFlow, model evaluation & visualisation, Git/version control, reproducible workflows
 
 ## Location
-United Kingdom  
-Open to engineering–AI opportunities in the UK and internationally.
-
+United Kingdom — open to engineering-AI opportunities (UK and remote).
 
 ## Contact
-For professional enquiries, please reach out via email (available on request) or through GitHub.
+Connect with me on LinkedIn and explore my work here on GitHub.  
+(Email available on request.)
