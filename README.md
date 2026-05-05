@@ -1,4 +1,4 @@
-![Nana Kwame Safo - Engineering Portfolio](https://raw.githubusercontent.com/nana-kwame-safo/nana-kwame-safo/main/assets/banner.png)
+![Nana Kwame Safo - Engineering Portfolio](https://raw.githubusercontent.com/nana-kwame-safo/nana-kwame-safo/main/assets/banner3.png)
 
 # Hi, I’m Nana Kwame Safo
 
